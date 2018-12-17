@@ -2,6 +2,16 @@
   "name": "fbbot",
   "version": "1.0.0",
   "description": "",
+  "dependencies": {
+        
+
+`"express":"*",`
+
+`"body-parser":"*",`
+
+`"bcrypt": "^0.8.5"`
+
+    },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
