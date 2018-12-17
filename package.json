@@ -2,7 +2,7 @@
   "name": "fbbot",
   "version": "1.0.0",
    "engines": { 
-      "node": "8.9.3" 
+      "node": "10.14.2" 
    },
   "description": "",
   "dependencies": {      
