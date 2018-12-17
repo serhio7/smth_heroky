@@ -25,9 +25,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
 	"start": "node app.js",
 	"prod": "NODE_ENV=production node server.js",
-    "postinstall": "webpack -p",
-	"heroku-prebuild": "yarn install --production=false"
-
+    "postinstall": "webpack -p"
   },
   "author": "",
   "license": "ISC"
