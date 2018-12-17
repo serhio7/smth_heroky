@@ -7,20 +7,20 @@
   "description": "",
   "dependencies": {      
 
-"express":"^4.13.3",
+"express":"^4.16.4",
 
-"body-parser":"*",
+"body-parser":"^1.18.3",
 
-"bcrypt": "^0.8.5"
+"bcrypt": "^3.0.2"
 
     },
 	"devDependencies ": {      
 
 "express":"^4.13.3",
 
-"body-parser":"*",
+"body-parser":"^1.18.3",
 
-"bcrypt": "^0.8.5"
+"bcrypt": "^3.0.2"
 
     },
   "main": "app.js",
