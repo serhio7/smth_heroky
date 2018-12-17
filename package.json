@@ -4,7 +4,7 @@
   "description": "",
   "dependencies": {      
 
-"express":"*",
+"express":"^4.13.3",
 
 "body-parser":"*",
 
@@ -13,7 +13,7 @@
     },
 	"devDependencies ": {      
 
-"express":"*",
+"express":"^4.13.3",
 
 "body-parser":"*",
 
